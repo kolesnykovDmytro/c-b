@@ -1,0 +1,31 @@
+{
+  "minify": true,
+  "options": [
+    "setClasses"
+  ],
+  "feature-detects": [
+    "test/inputsearchevent",
+    "test/queryselector",
+    "test/css/backgroundposition-shorthand",
+    "test/css/backgroundrepeat",
+    "test/css/backgroundsizecover",
+    "test/css/borderradius",
+    "test/css/boxsizing",
+    "test/css/flexbox",
+    "test/css/gradients",
+    "test/css/lastchild",
+    "test/css/mediaqueries",
+    "test/css/nthchild",
+    "test/css/rgba",
+    "test/css/textshadow",
+    "test/css/transforms",
+    "test/css/transforms3d",
+    "test/css/transitions",
+    "test/forms/formattribute",
+    "test/forms/placeholder",
+    "test/input/formaction",
+    "test/input/formmethod",
+    "test/style/scoped",
+    "test/webrtc/getusermedia"
+  ]
+}
